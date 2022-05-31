@@ -3,7 +3,8 @@ package br.com.glandata;
 public class ExercicioMedia {
 
 	public static void main(String[] args) {
-		// Calcular a média entre 3 notas. Se a nota >= 5, imprimir Aprovado, caso contrário, imprimir Reprovado.
+		// Calcular a media entre 3 notas. 
+		// Se a nota >= 5, imprimir Aprovado, caso contrário, imprimir Reprovado.
 		
 		double nota01 = 10;
 		double nota02 = 9;

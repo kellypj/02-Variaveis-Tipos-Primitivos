@@ -5,8 +5,8 @@ public class Variaveis {
 	public static void main(String[] args) {
 		System.out.println("Variáveis em Java");
 		
-		// Existe a possibilidade de criar uma variável sem declarar o tipo e o tipo ser definido pelo valor atribuído
-		// Não usar desta forma
+		// Existe a possibilidade de criar uma variavel sem declarar o tipo. 
+		// O tipo sera definido pelo valor atribuido. NAO USAR ESTA FORMA
 		
 		var numero0 = 10;
 		
